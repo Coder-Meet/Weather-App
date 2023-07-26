@@ -2,10 +2,11 @@
 color: red;
 }
 
-.p{
-color: blue;
-}
-
+p {
+    color: navy;
+    text-indent: 30px;
+    text-transform: uppercase;
+  }
 .error{
     color: yellow;
 }
